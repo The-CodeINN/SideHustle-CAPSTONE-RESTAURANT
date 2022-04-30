@@ -1,7 +1,7 @@
 {
   "name": "chado-restaurant",
   "version": "0.1.0",
-  "homepage": "https//The-CodeINN.github.io/SideHustle-CAPSTONE-RESTAURANT",
+  "homepage": "https://The-CodeINN.github.io/SideHustle-CAPSTONE-RESTAURANT",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-decorators": "7.17.9",
