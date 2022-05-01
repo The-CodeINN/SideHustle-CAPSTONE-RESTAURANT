@@ -1,19 +1,15 @@
 {
   "files": {
-    "main.css": "/SideHustle-CAPSTONE-RESTAURANT/static/css/main.b7756c3d.css",
-    "main.js": "/SideHustle-CAPSTONE-RESTAURANT/static/js/main.67766cb8.js",
-    "static/media/logo1.svg": "/SideHustle-CAPSTONE-RESTAURANT/static/media/logo1.a81d21a345bd4bcbcc1cd3d84a16e9a0.svg",
-    "static/media/logo2.svg": "/SideHustle-CAPSTONE-RESTAURANT/static/media/logo2.b71125ba8060e2c2c769084464187277.svg",
-    "static/media/logo4.svg": "/SideHustle-CAPSTONE-RESTAURANT/static/media/logo4.e05b10448064eda76d3a3cc387f688a2.svg",
-    "static/media/logo3.svg": "/SideHustle-CAPSTONE-RESTAURANT/static/media/logo3.c796f11f1ed86d92e1480b5fbdcdb2f7.svg",
+    "main.css": "/SideHustle-CAPSTONE-RESTAURANT/static/css/main.706b64b7.css",
+    "main.js": "/SideHustle-CAPSTONE-RESTAURANT/static/js/main.24d3dc5b.js",
     "index.html": "/SideHustle-CAPSTONE-RESTAURANT/index.html",
     "static/media/spoon.svg": "/SideHustle-CAPSTONE-RESTAURANT/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
     "static/media/meal.mp4": "/SideHustle-CAPSTONE-RESTAURANT/static/media/meal.79c1516e9969c508b773.mp4",
-    "main.b7756c3d.css.map": "/SideHustle-CAPSTONE-RESTAURANT/static/css/main.b7756c3d.css.map",
-    "main.67766cb8.js.map": "/SideHustle-CAPSTONE-RESTAURANT/static/js/main.67766cb8.js.map"
+    "main.706b64b7.css.map": "/SideHustle-CAPSTONE-RESTAURANT/static/css/main.706b64b7.css.map",
+    "main.24d3dc5b.js.map": "/SideHustle-CAPSTONE-RESTAURANT/static/js/main.24d3dc5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7756c3d.css",
-    "static/js/main.67766cb8.js"
+    "static/css/main.706b64b7.css",
+    "static/js/main.24d3dc5b.js"
   ]
 }
