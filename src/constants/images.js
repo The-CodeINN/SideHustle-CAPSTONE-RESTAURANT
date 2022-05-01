@@ -21,7 +21,7 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 
-const images = {
+export const images = {
   bg,
   chef,
   G,
@@ -45,5 +45,3 @@ const images = {
   quote,
   gericht,
 };
-
-export default images;
