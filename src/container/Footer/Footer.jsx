@@ -1,9 +1,9 @@
-import React from "react";
-import { FiFacebook, FiTwitter, FiGithub } from "react-icons/fi";
+import React from 'react';
+import { FiFacebook, FiTwitter, FiInstagram } from 'react-icons/fi';
 
-import { FooterOverlay, Newsletter } from "../../components";
-import { images } from "../../constants";
-import "./Footer.css";
+import { FooterOverlay, Newsletter } from '../../components';
+import { images } from '../../constants';
+import './Footer.css';
 
 const Footer = () => (
   <div className="app__footer section__padding" id="login">
@@ -20,28 +20,12 @@ const Footer = () => (
 
       <div className="app__footer-links_logo">
         <img src={images.gericht} alt="footer_logo" />
-        <p className="p__opensans">
-          &quot;The best way to find yourself is to lose yourself in the service
-          of others.&quot;
-        </p>
-        <img
-          src={images.spoon}
-          className="spoon__img"
-          style={{ marginTop: 15 }}
-          alt="spoon_img"
-        />
+        <p className="p__opensans">&quot;The best way to find yourself is to lose yourself in the service of others.&quot;</p>
+        <img src={images.spoon} className="spoon__img" style={{ marginTop: 15 }} />
         <div className="app__footer-links_icons">
-          <a href="https://web.facebook.com/emijere.richard">
-            <FiFacebook />
-          </a>
-
-          <a href="https://twitter.com/The_Codeinn">
-            <FiTwitter />
-          </a>
-
-          <a href="https://www.github.com/The-CodeINN/">
-            <FiGithub />
-          </a>
+          <FiFacebook />
+          <FiTwitter />
+          <FiInstagram />
         </div>
       </div>
 
@@ -57,6 +41,7 @@ const Footer = () => (
     <div className="footer__copyright">
       <p className="p__opensans">2021 Gericht. All Rights reserved.</p>
     </div>
+
   </div>
 );
 
