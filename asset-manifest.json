@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SideHustle-CAPSTONE-RESTAURANT/static/css/main.569761c8.css",
-    "main.js": "/SideHustle-CAPSTONE-RESTAURANT/static/js/main.3e1b859f.js",
+    "main.js": "/SideHustle-CAPSTONE-RESTAURANT/static/js/main.e89fa3fa.js",
     "static/media/meal.mp4": "/SideHustle-CAPSTONE-RESTAURANT/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/SideHustle-CAPSTONE-RESTAURANT/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/SideHustle-CAPSTONE-RESTAURANT/static/media/welcome.d724eb984456d9c97470.png",
@@ -25,10 +25,10 @@
     "index.html": "/SideHustle-CAPSTONE-RESTAURANT/index.html",
     "static/media/spoon.svg": "/SideHustle-CAPSTONE-RESTAURANT/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
     "main.569761c8.css.map": "/SideHustle-CAPSTONE-RESTAURANT/static/css/main.569761c8.css.map",
-    "main.3e1b859f.js.map": "/SideHustle-CAPSTONE-RESTAURANT/static/js/main.3e1b859f.js.map"
+    "main.e89fa3fa.js.map": "/SideHustle-CAPSTONE-RESTAURANT/static/js/main.e89fa3fa.js.map"
   },
   "entrypoints": [
     "static/css/main.569761c8.css",
-    "static/js/main.3e1b859f.js"
+    "static/js/main.e89fa3fa.js"
   ]
 }
